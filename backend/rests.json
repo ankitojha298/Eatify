@@ -1,0 +1,119 @@
+[
+  {
+    "_id": "69a72ead6a2d0355a5040240",
+    "name": "The Grand Feast",
+    "description": "A premium dining experience with a vast multi-cuisine menu.",
+    "address": "101 Fine Dine Blvd, Gourmet City",
+    "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "categories": [
+      "veg",
+      "non-veg",
+      "dessert"
+    ],
+    "owner": "69a72ead6a2d0355a504023d",
+    "rating": 4.8,
+    "numReviews": 45,
+    "__v": 0,
+    "createdAt": "2026-03-03T18:55:41.044Z",
+    "updatedAt": "2026-03-03T18:55:41.044Z"
+  },
+  {
+    "_id": "69a72ead6a2d0355a5040241",
+    "name": "Quick Bite Diner",
+    "description": "Your stop for the fastest and tastiest comfort food.",
+    "address": "222 Fast Lane, Speedy Town",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "categories": [
+      "fast food",
+      "non-veg"
+    ],
+    "owner": "69a72ead6a2d0355a504023d",
+    "rating": 4.3,
+    "numReviews": 89,
+    "__v": 0,
+    "createdAt": "2026-03-03T18:55:41.044Z",
+    "updatedAt": "2026-03-03T18:55:41.044Z"
+  },
+  {
+    "_id": "69a72ead6a2d0355a5040242",
+    "name": "Spicy Grill",
+    "description": "Best grilled food in town with authentic spices.",
+    "address": "123 Main Street, Cityville",
+    "imageUrl": "https://images.unsplash.com/photo-1552566626-52f8b828add9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "categories": [
+      "non-veg",
+      "fast food"
+    ],
+    "owner": "69a72ead6a2d0355a504023d",
+    "rating": 4.5,
+    "numReviews": 12,
+    "__v": 0,
+    "createdAt": "2026-03-03T18:55:41.044Z",
+    "updatedAt": "2026-03-03T18:55:41.044Z"
+  },
+  {
+    "_id": "69a72ead6a2d0355a5040243",
+    "name": "Green Leaf Cafe",
+    "description": "Fresh and organic vegetarian meals for a healthy lifestyle.",
+    "address": "456 Green Avenue, Veggie Town",
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "categories": [
+      "veg"
+    ],
+    "owner": "69a72ead6a2d0355a504023d",
+    "rating": 4.8,
+    "numReviews": 8,
+    "__v": 0,
+    "createdAt": "2026-03-03T18:55:41.045Z",
+    "updatedAt": "2026-03-03T18:55:41.045Z"
+  },
+  {
+    "_id": "69a72ead6a2d0355a5040244",
+    "name": "Sweet Tooth Bakery",
+    "description": "Delicious desserts, cakes, and pastries out of the oven.",
+    "address": "789 Sugar Lane, Candyland",
+    "imageUrl": "https://images.unsplash.com/photo-1551024601-bec78aea704b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "categories": [
+      "dessert"
+    ],
+    "owner": "69a72ead6a2d0355a504023d",
+    "rating": 4.2,
+    "numReviews": 5,
+    "__v": 0,
+    "createdAt": "2026-03-03T18:55:41.045Z",
+    "updatedAt": "2026-03-03T18:55:41.045Z"
+  },
+  {
+    "_id": "69a739fb522c404fb4f53c4e",
+    "name": "Shivam food Bharndar",
+    "description": "Hamre Yaha veg  or Non-veg dono milata hai",
+    "address": "Brahmpur buxar bihar india ",
+    "imageUrl": "/images/sample.jpg",
+    "categories": [
+      "pizza samosa"
+    ],
+    "owner": "69a7383ced72cb173ec91603",
+    "rating": 0,
+    "numReviews": 0,
+    "createdAt": "2026-03-03T19:43:55.317Z",
+    "updatedAt": "2026-03-03T19:43:55.317Z",
+    "__v": 0
+  },
+  {
+    "_id": "69a750b453f06436ae79089e",
+    "name": "RajBhoh",
+    "description": "Corner",
+    "address": "Buxar",
+    "imageUrl": "http://localhost:5000/uploads/image-1772572817701.jpg",
+    "categories": [
+      "Samosa",
+      "chhat"
+    ],
+    "owner": "69a7508253f06436ae790891",
+    "rating": 0,
+    "numReviews": 0,
+    "createdAt": "2026-03-03T21:20:52.943Z",
+    "updatedAt": "2026-03-03T21:20:52.943Z",
+    "__v": 0
+  }
+]

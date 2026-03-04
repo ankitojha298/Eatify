@@ -1,0 +1,52 @@
+[
+  {
+    "paymentDetails": {
+      "id": "test_stripe_id_1772603691520",
+      "status": "Paid",
+      "update_time": "2026-03-04T05:54:51.520Z",
+      "email_address": "rohit45@gmail.com"
+    },
+    "_id": "69a7c92b2360eed39fe6d35c",
+    "user": "69a7454053f06436ae790804",
+    "restaurant": "69a750b453f06436ae79089e",
+    "orderItems": [
+      {
+        "menuItem": "69a7510653f06436ae7908bb",
+        "name": "Sweetss",
+        "quantity": 4,
+        "price": 232,
+        "_id": "69a7c92b2360eed39fe6d35d"
+      }
+    ],
+    "totalAmount": 928,
+    "status": "Preparing",
+    "createdAt": "2026-03-04T05:54:51.569Z",
+    "updatedAt": "2026-03-04T05:54:51.569Z",
+    "__v": 0
+  },
+  {
+    "paymentDetails": {
+      "id": "test_stripe_id_1772573436743",
+      "status": "Paid",
+      "update_time": "2026-03-03T21:30:36.743Z",
+      "email_address": "rohit45@gmail.com"
+    },
+    "_id": "69a752fc53f06436ae790934",
+    "user": "69a7454053f06436ae790804",
+    "restaurant": "69a750b453f06436ae79089e",
+    "orderItems": [
+      {
+        "menuItem": "69a7510653f06436ae7908bb",
+        "name": "Sweetss",
+        "quantity": 1,
+        "price": 232,
+        "_id": "69a752fc53f06436ae790935"
+      }
+    ],
+    "totalAmount": 232,
+    "status": "Preparing",
+    "createdAt": "2026-03-03T21:30:36.758Z",
+    "updatedAt": "2026-03-03T21:30:36.758Z",
+    "__v": 0
+  }
+]
